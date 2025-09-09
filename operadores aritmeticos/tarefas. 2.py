@@ -13,3 +13,4 @@
 base = int(input("informe o valor da base -> ->"))
 expoente = int(input("informe o valor do expoente ->"))
 print("o resultado da potencia é ->",base**expoente )
+
