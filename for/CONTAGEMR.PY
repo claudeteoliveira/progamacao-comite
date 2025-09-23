@@ -1,2 +1,2 @@
-(10, -1, -1):
-PRINT(numero)
+(10, -1, -1)
+print('numero')

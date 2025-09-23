@@ -1,0 +1,7 @@
+numeros = [1, 567, 34, 789, 123,]
+soma = 0
+
+for n in numeros:
+    soma += n
+
+    print(f'A soma é {soma}')
